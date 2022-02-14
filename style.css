@@ -1,1 +1,14 @@
+body {
+  background color: #444444;
+  color: #ddddd;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10%, 20%;
+}
 
+.header {
+  text-align: left;
+  text-transform: uppercase;
+  border-top: 1px solid #ddddd
+  border-bottom: 1px solid $ddddd
+  background-color: rgba(0,0,0,0.1)
+}
