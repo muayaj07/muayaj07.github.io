@@ -6,7 +6,7 @@ body {
 }
 
 .header {
-  text-align: center;
+  text-align: left;
   text-transform: uppercase;
   border-top: 1px solid #ddddd
   border-bottom: 1px solid $ddddd
