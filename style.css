@@ -17,3 +17,8 @@ body {
 section {
   background-color: #add8e6;
 }
+
+h6 {
+  background-color: lightgray;
+  font-size: 12px;
+}
